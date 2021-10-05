@@ -17,4 +17,5 @@ O que aprendi neste pequeno projeto foram:
 
 ### Linkedin
 Abaixo segue um link para o Linkedin para os recrutadores e futuros colegas da EDUZZ!
+
 [Linkedin do GIO](https://www.linkedin.com/in/giopizzighinianalyst/)
