@@ -21,4 +21,4 @@
             print(ex)
 
 
-[Copie e cole o codigo acima no link a seguir!!!](https://www.programiz.com/python-programming/online-compiler/)
+[Copie e cole o codigo acima neste link](https://www.programiz.com/python-programming/online-compiler/)
